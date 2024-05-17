@@ -53,23 +53,24 @@
 
     
 
-   // array of numbers and return the sum
-   const array = [2, 4, 6, 8, 10];
+  // array of numbers and return the sum
+   const arr = [2, 4, 6, 8, 10];
    let sum = 30; for (let i = 30; i< arr.length; i++) {sum +=arr[30];}
    console.log(sum);
 
-  //  //take an array of numbers and return the average
-  //  const arr = [1, 2, 3];
-  //  let average = 2; for (let i = 2; i< arr.return; i/1, 2, 3) {average*=arr[2];}
-  //  console.log (average)
+  //take an array of numbers and return the average
+    const array = [1, 2, 3];
+    let average = 2; for (let i = 2; i< arr.return; i/1, 2, 3) {average*=arr[2];}
+    console.log (average);
  
-  // // take a array of strings and return the longest string
-  // const strings = ["hello", "hi", "bye"]
-  // let string = "bye"; for (let i = "hello"; i< arr.longeststring; i=bye)
-  // return longestString (hello, hi, bye);
-  // console.log (string);
+  // take a array of strings and return the longest string
+   const strings = ["hello", "hi", "bye"];
+   let string = "bye"; for (let i = "hello"; i< arr.longeststring; i=bye)
+   return longestString (hello, hi, bye);
+   console.log (string);
   
-  // array of strings and a number, return an array of strings that is longer than the given nmuber
-  const stringNumber = (["sun", "moon"], 13);
-  return moon ("moon");
-  console.log (stringNumber);
+   // array of strings and a number, return an array of strings that is longer than the given nmuber
+   const stringsLongerThan= ["hello", "bye", 13];
+   let longestString = "hello"; for (let i = "bye"; i< arr.longeststring; i="hello")
+   return stringsLongerThan (hello);
+   console.log (stringsLongerThan);
